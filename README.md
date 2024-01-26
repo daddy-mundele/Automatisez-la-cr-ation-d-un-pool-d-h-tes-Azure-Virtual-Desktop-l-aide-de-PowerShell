@@ -1,0 +1,1 @@
+# Automatisez-la-cr-ation-d-un-pool-d-h-tes-Azure-Virtual-Desktop-l-aide-de-PowerShell
